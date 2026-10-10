@@ -33,7 +33,7 @@ id selector
     color: green;
 } */
 
-.bg-h1-one{
+/* .bg-h1-one{
     background-color: blue;
     color: white;
     text-align: center;
@@ -46,10 +46,10 @@ id selector
     color: white;
     text-align: center;
     padding: 10px 20px 30px 40px;
-    /* padding-top: 50px;
+    padding-top: 50px;
     padding-bottom: 20px;
     padding-right: 30px;
-    padding-left: 30px; */
+    padding-left: 30px;
     margin: 10px 20px 30px 40px;
     border: 5px solid black;
 }
@@ -60,4 +60,34 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+} */
+
+/* Position */
+
+#box-1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#box-2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    top: 50px;
+}
+
+#box-3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(18, 59, 33);
+}
+
+#box-4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(19, 19, 69);
+    position: absolute;
+    top: 50px;
 }
