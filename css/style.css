@@ -53,3 +53,11 @@ id selector
     margin: 10px 20px 30px 40px;
     border: 5px solid black;
 }
+
+body{
+    background-image:url(../image/Phoenix_10_A_vibrant_and_intricate_flower_mandala_with_a_mix_o_3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
