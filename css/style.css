@@ -1,9 +1,21 @@
 h1{
-            background-color: orange;
-            color: blue;
-            text-align: center;
-        }
-        p{
-            color: blueviolet;
-            text-align: justify;
-        }
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: blueviolet;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.bg-color{
+    text-align: left;
+    color: orange;
+    background-color: black;
+}
