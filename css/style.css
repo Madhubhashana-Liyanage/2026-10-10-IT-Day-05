@@ -14,8 +14,14 @@ body{
     background-color: blanchedalmond;
 }
 
+/* class selector */
 .bg-color{
     text-align: left;
     color: orange;
     background-color: black;
+}
+
+/* id selector */
+#bgp-color{
+    color: green;
 }
