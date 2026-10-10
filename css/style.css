@@ -38,6 +38,8 @@ id selector
     color: white;
     text-align: center;
     padding: 50px;
+    border-radius: 10px;
+    letter-spacing: 5px;
 }
 .bg-h1-two{
     background-color: green;
@@ -48,4 +50,6 @@ id selector
     padding-bottom: 20px;
     padding-right: 30px;
     padding-left: 30px; */
+    margin: 10px 20px 30px 40px;
+    border: 5px solid black;
 }
